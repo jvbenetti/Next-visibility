@@ -1,8 +1,10 @@
 function MyApp({ Component, pageProps }) {
-    <>
-        Esse texto aparece em todas as páginas!
-        return <Component {...pageProps} />
-    </>
+    return (
+        <>
+            Esse texto aparece em todas as páginas!
+            <Component {...pageProps} />
+        </>
+    )
 }
 
 export default MyApp
