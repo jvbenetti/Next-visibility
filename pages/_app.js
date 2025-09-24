@@ -1,3 +1,5 @@
+// Este arquivo apresenta configurações globais para todas as páginas do Next.js
+
 function MyApp({ Component, pageProps }) {
     return (
         <>
