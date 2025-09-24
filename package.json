@@ -16,5 +16,10 @@
     "url": "https://github.com/JaoVicy/Next-visibility/issues"
   },
   "homepage": "https://github.com/JaoVicy/Next-visibility#readme",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "next": "^15.5.4",
+    "react": "^19.1.1",
+    "react-dom": "^19.1.1"
+  }
 }
